@@ -5,7 +5,7 @@ const minecraftData = require('minecraft-data');
 const util = require('util');
 
 /* === Config === */
-const HOST = '2b2t.org';
+const HOST = 'mariano123.ddns.net';
 const PORT = 25565;
 
 const clickableBlocks = new Set([
@@ -215,3 +215,4 @@ function connect() {
 
 /* === Start === */
 connect();
+
